@@ -4,21 +4,13 @@ Neovim configuration
 ## after
   . active plugin
 
-    - color:
-
-      * Set transparancy and font theme
+    - color
 
     - lsp
-
-      * Server intalled [tsserver, eslint, rust_analyzer]
 
     - mason
 
     - telescope
-
-      * set keybind for telescope 
-
-      * if varable space not work change to leader
 
     - treesitter
 
