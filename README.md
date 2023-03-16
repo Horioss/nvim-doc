@@ -32,7 +32,7 @@ Neovim configuration
 
     - packer
 
-    - remap (net set neet to fix bug)
+    - remap 
     
     - set
 
